@@ -1,0 +1,2 @@
+rootProject.name='FB log'
+include ':app'
